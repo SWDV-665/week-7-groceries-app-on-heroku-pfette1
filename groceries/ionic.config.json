@@ -1,0 +1,11 @@
+{
+  "name": "groceries",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "326e2de2"
+}

@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/groceries/.vs/groceries/FileContentIndex/332002c4-8ed8-4b68-bd82-eda77831020a.vsidx
+*.vsidx
+/groceries/.vs/groceries/FileContentIndex/read.lock
+/groceries/.vs/groceries/v17/.suo
+/groceries/.vs/VSWorkspaceState.json
+/groceries/.vs/slnx.sqlite
+/groceries/.vscode/extensions.json
+/groceries/.vscode/extensions.json
+/.vs/week-6-groceries-app-restful-services-pfette1/FileContentIndex/read.lock
+/.vs/week-6-groceries-app-restful-services-pfette1/v17/.suo
+/.vs/week-6-groceries-app-restful-services-pfette1/config/applicationhost.config
